@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bagas Berlian Tri Cahyono </h1>
 <h3 align="center"> "I am a younger brother who wants to beat his older brother" </h3>
 <br>
-<ul> 
-  <li>🔭 I’m currently studying in <b>Yogyakarta State University</b> </li>
+- 🔭 I’m currently studying in <b>Yogyakarta State University</b> </li>
 
-  <li>🌱 I’m currently learning **Backend Web Development** </li>
+- 🌱 I’m currently learning **Backend Web Development** </li>
 
-  <li> 👨‍💻 All of my projects are available at - </li>
-</ul>
+- 👨‍💻 All of my projects are available at - </li>
 <br>
 <h3> 📫 How to connect me? </h3>
 

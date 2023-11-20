@@ -3,7 +3,7 @@
 <br>
 - 🔭 I’m currently studying in <b>Yogyakarta State University</b> </li>
 
-- 🌱 I’m currently learning **Backend Web Development** </li>
+- 🌱 I’m currently learning <b>Backend Web Development</b> </li>
 
 - 👨‍💻 All of my projects are available at - </li>
 <br>

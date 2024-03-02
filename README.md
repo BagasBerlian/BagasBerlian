@@ -11,13 +11,13 @@
 <hr>
 <br>
 <h3> 👨‍💻 Some of my projects are in 
-  <a href="www.linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9" height="20" width="30" />
+  <a href="https://www.linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9" height="20" width="30" />
   </a> 
 </h3>
 <br>
 <h3> 📫 How to connect me? </h3>
 <a href="https://instagram.com/bbagaass_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bbagaass_" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9" height="30" width="40" /></a>
 <br>
 <h3> 🧑🏻‍💻 Languages and Tools: </h3>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>

@@ -23,7 +23,7 @@ jobs:
       - name: Generate streak stats SVG
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=BagasBerlian&hide_border=true&background=00000000&ring=22D3EE&fire=38BDF8&currStreakLabel=E6F7FF&sideLabels=94A3B8&currStreakNum=E6F7FF&sideNums=E6F7FF&dates=64748B
+          options: user=BagasBerlian&hide_border=false&background=0b0f19&ring=22D3EE&fire=38BDF8&currStreakLabel=E6F7FF&sideLabels=94A3B8&currStreakNum=E6F7FF&sideNums=E6F7FF&dates=64748B&border=151f2c
           path: assets/github-streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

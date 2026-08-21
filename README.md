@@ -59,16 +59,9 @@ I'm currently studying Informatics Engineering Education at UNY. I have a divers
 
 ## 📊 GitHub Statistics
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=BagasBerlian&theme=dark&hide_border=true" alt="GitHub contribution streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=BagasBerlian&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BagasBerlian&background=0b0f19&ring=22D3EE&fire=38BDF8&currStreakLabel=E6F7FF&sideLabels=94A3B8&currStreakNum=E6F7FF&sideNums=E6F7FF&dates=64748B&border=151f2c" alt="GitHub contribution streak" width="100%" />
+</p>
 
 <p align="center">
   <picture>
@@ -85,6 +78,7 @@ I'm currently studying Informatics Engineering Education at UNY. I have a divers
     <img src="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%" />
   </picture>
 </p>
+
 
 ---
 

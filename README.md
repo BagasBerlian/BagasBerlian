@@ -59,10 +59,16 @@ I'm currently studying Informatics Engineering Education at UNY. I have a divers
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BagasBerlian&theme=dark&hide_border=true" alt="GitHub contribution streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BagasBerlian&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" width="49%" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=BagasBerlian&theme=dark&hide_border=true" alt="GitHub contribution streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=BagasBerlian&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>

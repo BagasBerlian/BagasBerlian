@@ -49,7 +49,28 @@ I'm currently studying Informatics Engineering Education at UNY. I have a divers
 ### 💡 What I'm Currently Working On
 - 🌱 Learning mobile app development with Kotlin.
 - 🛠 Building full-stack applications using Next.js and Laravel.
-- � Exploring more advanced design techniques with Figma and Canva.
+- 🎨 Exploring more advanced design techniques with Figma and Canva.
+
+## 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=BagasBerlian&theme=dark" alt="GitHub contribution streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=BagasBerlian&show_icons=true&theme=dark" alt="GitHub stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/galaga-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
+  </picture>
+</p>
 
 ### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9)

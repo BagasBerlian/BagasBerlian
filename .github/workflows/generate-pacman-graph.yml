@@ -1,26 +1,30 @@
-name: Generate Galaga Contribution Graph
+name: Generate Arcade Contribution Graph
 
 on:
   schedule:
-    # Run automatically every 24 hours
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
+
     steps:
-      - name: Generate Galaga Arcade SVG
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'galaga'
+          github_user_name: BagasBerlian
+          games: 'galaga,pacman'
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

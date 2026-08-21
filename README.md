@@ -4,67 +4,67 @@
 
 I'm currently studying Informatics Engineering Education at UNY. I have a diverse set of skills ranging from web development to video editing. I'm always excited to explore new technologies and improve my expertise in various domains.
 
+---
+
 ### 🛠️ Skills & Tools
 
 #### My Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
-![ActionScript](https://img.shields.io/badge/-ActionScript-FF4500?logo=adobe&logoColor=white&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?logo=alpine.js&logoColor=black&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![ActionScript](https://img.shields.io/badge/ActionScript-FF4500?style=for-the-badge&logo=adobe&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### Frameworks
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### Graphic Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 #### Video Editing
-![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-9999FF?logo=adobepremiere&logoColor=white&style=for-the-badge)
-![Adobe Animate](https://img.shields.io/badge/-Adobe%20Animate-FF0000?logo=adobeanimate&logoColor=white&style=for-the-badge)
+![Adobe Premiere](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremiere&logoColor=white)
+![Adobe Animate](https://img.shields.io/badge/Adobe_Animate-FF0000?style=for-the-badge&logo=adobeanimate&logoColor=white)
 
 #### Languages
-- 🇮🇩 Indonesian (Native)  
-- 🇬🇧 English (Professional)  
-- 🇯🇵 Japanese (Basic)
+![Indonesian](https://img.shields.io/badge/🇮🇩_Indonesian-Native-E71D36?style=for-the-badge)
+![English](https://img.shields.io/badge/🇬🇧_English-Professional-011627?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/🇯🇵_Japanese-Basic-2EC4B6?style=for-the-badge)
 
 #### Microsoft Office
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
-![Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoftword&logoColor=white&style=for-the-badge)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+---
 
 ### 💡 What I'm Currently Working On
 - 🌱 Learning mobile app development with Kotlin.
 - 🛠 Building full-stack applications using Next.js and Laravel.
 - 🎨 Exploring more advanced design techniques with Figma and Canva.
 
+---
+
 ## 📊 GitHub Statistics
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=BagasBerlian&theme=dark" alt="GitHub contribution streak" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BagasBerlian&show_icons=true&theme=dark" alt="GitHub stats" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BagasBerlian&theme=dark&hide_border=true" alt="GitHub contribution streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BagasBerlian&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" width="49%" />
+</p>
 
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/galaga-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/galaga-contribution-graph.svg" />
@@ -72,10 +72,22 @@ I'm currently studying Informatics Engineering Education at UNY. I have a divers
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%" />
+  </picture>
+</p>
+
+---
+
 ### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/BagasBerlian)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:bagasberlian.2022@student.uny.ac.id@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bagas-berlian-tri-cahyono-00a9782a9)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BagasBerlian)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagasberlian.2022@student.uny.ac.id@gmail.com)
+
+---
 
 ### 🔥 Fun Fact
 > "The only way to do great work is to love what you do." – Steve Jobs

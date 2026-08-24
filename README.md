@@ -57,11 +57,11 @@ I'm currently studying Informatics Engineering Education at UNY. I have a divers
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BagasBerlian&background=0b0f19&ring=22D3EE&fire=38BDF8&currStreakLabel=E6F7FF&sideLabels=94A3B8&currStreakNum=E6F7FF&sideNums=E6F7FF&dates=64748B&border=151f2c" alt="GitHub contribution streak" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <picture>
@@ -71,13 +71,13 @@ I'm currently studying Informatics Engineering Education at UNY. I have a divers
   </picture>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/pacman-contribution-graph.svg" />
     <img src="https://raw.githubusercontent.com/BagasBerlian/BagasBerlian/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" width="100%" />
   </picture>
-</p>
+</p> -->
 
 
 ---
